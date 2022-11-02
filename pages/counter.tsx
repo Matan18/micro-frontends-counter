@@ -6,7 +6,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <div className={styles.container}>
-      <h1>Rendered in <a href='https://counter-microfrontend.matandriola.com/counter'>counter-matandriola.com</a></h1>
+      <h1>Rendered in <a href='https://counter-microfrontend.matandriola.com/counter'>counter-microfrontend.matandriola.com</a></h1>
       <Counter />
     </div>
   )
